@@ -1,4 +1,4 @@
-### Hello 👋 Please feel free to look around
+### Hello 👋 Please feel free to look around.
 
 <!--
 **ecarnovsky/ecarnovsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
