@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Elizabeth</h1>
-<h3 align="center">A frontend developer looking to broaden my expertise to fullstack development</h3>
+<h3 align="center">A fullstack web developer</h3>
 
 - 🔭 I’m currently working on [Seedling Height Sorter](https://github.com/ecarnovsky/seedling-height-sorter)
 
