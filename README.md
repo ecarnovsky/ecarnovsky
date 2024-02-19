@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on redesigning the interface for [Seedling Height Sorter](https://github.com/ecarnovsky/seedling-height-sorter).
 
-- 🌱 I’m currently learning **C++** at OCC and learning **React** on my own in my free time.
+- 🌱 I’m currently learning **C++** at OCC and teaching myself **React** in my free time.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
