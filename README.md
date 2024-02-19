@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Elizabeth</h1>
 <h3 align="center">A fullstack web developer</h3>
 
-- 🔭 I’m currently working on redesigning the interface for [Seedling Height Sorter](https://github.com/ecarnovsky/seedling-height-sorter)
+- 🔭 I’m currently working on redesigning the interface for [Seedling Height Sorter](https://github.com/ecarnovsky/seedling-height-sorter).
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **C++** at OCC and learning **React** on my own in my free time.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
