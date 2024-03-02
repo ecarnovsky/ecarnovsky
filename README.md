@@ -15,6 +15,8 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ecarnovsky&show_icons=true&locale=en&layout=compact" alt="ecarnovsky" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ecarnovsky&" alt="ecarnovsky" /></p>
+
 
 
 ![A screenshot of my blog](./images/Screenshot-2024-02-15-160635.png)
