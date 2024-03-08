@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Elizabeth</h1>
 <h3 align="center">A student and fullstack web developer</h3>
 
-- 🔭 I’m currently working on redesigning the CSS for [Seedling Height Sorter](https://github.com/ecarnovsky/seedling-height-sorter) and the code for FishSim's image generator.
+- 🔭 I’m currently working on redesigning FishSim's image generator.
 
 - 🌱 I’m currently learning **C++** at OCC and teaching myself **React** in my free time.
 
