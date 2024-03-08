@@ -20,5 +20,4 @@
 
 
 ![A screenshot of my blog](./images/Screenshot-2024-02-15-160635.png)
-![A screenshot of my seedling height sorter](./images/Screenshot-2024-02-17-152343.png)
 ![A screenshot of the seedling height sorter redesign](./images/Screenshot-seedling-new.png)
