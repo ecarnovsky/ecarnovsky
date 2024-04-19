@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on redesigning FishSim's image generator.
 
-- 🌱 I’m currently learning **C++** at OCC and teaching myself **React** in my free time.
+- 🌱 I’m currently learning how to write commit messages without typos.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
