@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Elizabeth</h1>
 <h3 align="center">A student and fullstack web developer</h3>
 
-- 🔭 I’m currently working on Leap Evolution.
+- 🔭 I’m currently working on [Coffee Scraper](https://github.com/ecarnovsky/coffee-scraper)
 
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently learning **React**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
