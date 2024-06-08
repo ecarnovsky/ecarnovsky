@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Elizabeth</h1>
 <h3 align="center">A student and fullstack web developer</h3>
 
-- 🔭 I’m currently working on [Coffee Scraper](https://github.com/ecarnovsky/coffee-scraper)
+- 🔭 I’m currently working on [Coffee Scraper](https://github.com/ecarnovsky/coffee-scraper) and [Bugfree Campground](https://github.com/KanePhillipsOU/csi-2999-project)
 
 - 🌱 I’m currently learning **React**
 
