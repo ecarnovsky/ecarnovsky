@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **React**
 
+- - 👯 I’m looking to collaborate on [this 2d psych horror game](https://github.com/ecarnovsky/godot-game)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/elizabethcarnovsky/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/elizabethcarnovsky/" height="30" width="40" /></a>
