@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- - 👯 I’m looking to collaborate on [this 2d psych horror game](https://github.com/ecarnovsky/godot-game)
+- 👯 I’m looking to collaborate on [this 2d psych horror game](https://github.com/ecarnovsky/godot-game)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
