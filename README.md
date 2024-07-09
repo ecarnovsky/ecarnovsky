@@ -17,5 +17,7 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ecarnovsky&show_icons=true&locale=en&layout=compact" alt="ecarnovsky" /></p><p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ecarnovsky&" alt="ecarnovsky" /></p>
 <p align="center">
-  <img align="center" src="https://raw.githubusercontent.com/ecarnovsky/ecarnovsky/main/gifs/campsite-homepage.gif" alt="The homepage of BugFree Campground" />
+  <a href="https://github.com/KanePhillipsOU/csi-2999-project">
+    <img align="center" src="https://raw.githubusercontent.com/ecarnovsky/ecarnovsky/main/gifs/campsite-homepage.gif" alt="The homepage of BugFree Campground" />
+  </a>
 </p>
